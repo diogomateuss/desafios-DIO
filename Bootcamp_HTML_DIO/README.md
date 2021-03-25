@@ -4,7 +4,7 @@
 
 ## Desafios realizados no Bootcamp  **[HTML Web Developer](https://web.digitalinnovation.one/track/html-web-developer)**  fornecido pela [DIGITAL INNOVATION ONE -DIO](https://web.digitalinnovation.one/)
 
-## Lista de desafios
+## Lista de desafios.
 
 - **Desafio 1/5 - Quantidade de Números Positivos - Fundamentos Aritméticos em JavaScript Desafio - 1 - Nível Básico**
 
