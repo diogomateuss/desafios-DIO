@@ -1,6 +1,6 @@
 # **Fundamentos Aritméticos em JavaScript :computer:**
 
-## Desafios realizados no Bootcamp  <b>HTML Web Developer</b>  fornecido pela [DIGITAL INNOVATION ONE -DIO](https://web.digitalinnovation.one/) 
+## Desafios realizados no Bootcamp  <b>[HTML Web Developer](https://web.digitalinnovation.one/track/html-web-developer)</b>  fornecido pela [DIGITAL INNOVATION ONE -DIO](https://web.digitalinnovation.one/) 
 
 ### Lista de desafios
 
